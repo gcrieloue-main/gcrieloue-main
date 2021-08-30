@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gcrieloue-main
-- 📫 How to reach me : visit http://gilles.crieloue.fr
+- 📫 How to reach me : visit https://gilles.crieloue.fr
 
 <!---
 gcrieloue-main/gcrieloue-main is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
